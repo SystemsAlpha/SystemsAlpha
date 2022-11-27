@@ -66,6 +66,6 @@ Essa é a página ao qual o funcionário vai decidir qual tipo de serviço ele i
 
 ![image](https://user-images.githubusercontent.com/111814195/204156428-b813ce00-94d1-468d-be01-259add2183e0.png)
 
-# Diagrama de Dados
+# Banco de Dados
 
 ![image](https://user-images.githubusercontent.com/111814195/204156467-f9f6ecac-ae9a-4ecf-838a-e6f8bf99ced6.png)
