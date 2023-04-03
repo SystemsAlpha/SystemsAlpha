@@ -16,7 +16,7 @@ total na Parte do Financeiro, como controle das despesas.
 ![image](https://user-images.githubusercontent.com/111814195/204156156-0f32fe5a-f566-490a-8a6c-1c6f7c6917e8.png)
 
 # Página de Login
-A página inicial é destinada aos funcionários para a realização de Login. Cada funcionário terá um login para que assim, o administrador do Frigoriifco tenha um controle do acesso.
+A página inicial é destinada aos funcionários para a realização de Login. Cada funcionário terá um login para que assim, o administrador do Frigorifico tenha um controle do acesso.
 
 ![image](https://user-images.githubusercontent.com/111814195/204156049-db42732c-1acd-4624-9ed7-5fe46514e009.png)
 # Página de Serviços
